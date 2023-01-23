@@ -1,0 +1,180 @@
+{
+    "catalog": [
+        {
+            "id": 1,
+            "img": "/catalog/tuxedo/img1.png",
+            "title": "/ Жакет-смокинг с лацканами",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 2,
+            "img": "/catalog/tuxedo/img2.png",
+            "title": "/ Классический комплект с смокингом и жилетом",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 3,
+            "img": "/catalog/tuxedo/img3.png",
+            "title": "/ Белый жакет смокинг",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 4,
+            "img": "/catalog/tuxedo/img4.png",
+            "title": "/ Жакет-смокинг бархатный",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 5,
+            "img": "/catalog/tuxedo/img5.png",
+            "title": "/ Жакет-смокинг прямой",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 6,
+            "img": "/catalog/tuxedo/img6.png",
+            "title": "/ Белый смокинг с брюками-клёш",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 7,
+            "img": "/catalog/tuxedo/img7.png",
+            "title": "/ Жакет - смокинг приталенный синий",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 8,
+            "img": "/catalog/tuxedo/img8.png",
+            "title": "/ Платье-смокинг длинное",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 9,
+            "img": "/catalog/tuxedo/img9.png",
+            "title": "/ Белый смокинг и брюки с лампасами",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 10,
+            "img": "/catalog/tuxedo/img10.png",
+            "title": "/ Классический комплект с бабочкой",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 11,
+            "img": "/catalog/tuxedo/img11.png",
+            "title": "/ Жакет-смокинг",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 12,
+            "img": "/catalog/tuxedo/img12.png",
+            "title": "/ Платье-смокинг молочное",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 13,
+            "img": "/catalog/tuxedo/img13.png",
+            "title": "/ Топ с кружевом черный",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 14,
+            "img": "/catalog/tuxedo/img14.png",
+            "title": "/ Юбка - карандаш",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 15,
+            "img": "/catalog/tuxedo/img15.png",
+            "title": "/ Блуза с баской",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 16,
+            "img": "/catalog/tuxedo/img16.png",
+            "title": "/ Брюки зауженные",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 17,
+            "img": "/catalog/tuxedo/img17.png",
+            "title": "/ Жакет-смокинг с лацканами",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 18,
+            "img": "/catalog/tuxedo/img18.png",
+            "title": "/ Красный приталенный смокинг",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 19,
+            "img": "/catalog/tuxedo/img19.png",
+            "title": "/ Брюки клёш",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 20,
+            "img": "/catalog/tuxedo/img20.png",
+            "title": "/ Костюм бархатый",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 21,
+            "img": "/catalog/tuxedo/img21.png",
+            "title": "/ Жакет-смокинг с лацканами",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        },
+        {
+            "id": 22,
+            "img": "/catalog/tuxedo/img22.png",
+            "title": "/ Жакет-смокинг с лацканами",
+            "price": 23900,
+            "category": "tuxedo"
+            
+        }
+    ]
+}
